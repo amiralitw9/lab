@@ -1,5 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std ;
+//اول تعداد داده ها
+//بعد داده ها به صورتی که اول ایکس و بعد ایگرگ 
 int main() {
     int n ;
     cin>>n ;
